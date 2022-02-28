@@ -1,0 +1,146 @@
+﻿body {
+    width: 100vw;
+    
+}
+#home {
+    background: url(img/breakfast-lg.jpg) no-repeat center center fixed;
+}
+section {
+    margin-left: 3em;
+    margin-right: 3em;
+    position: absolute;
+    top: 250px;
+    
+}
+header {
+    position: fixed;
+    top: 0px;
+    height: 100px;
+    width: 100%;
+    z-index: 100;
+    background-color: white;
+    margin: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+    header h1 {
+        text-align: center;
+        background-color: white;
+        margin: 0;
+        padding: 10px 0px 10px 0px;
+    }
+header nav {
+    width:100%;
+    margin: 0 auto;
+    background-color: white;
+}
+header img {
+    width: 100px;
+    margin-left: 46%;
+    background-color: white;
+    padding-bottom: 10px;
+}
+#main-nav {
+    width: 650px;
+    margin: 0 auto;
+
+}
+#main-nav ul {
+    list-style: none;
+}
+#main-nav ul ul {
+    display:none;
+
+}
+    #main-nav ul li {
+        display: block;
+        text-align: center;
+        font-size: calc(12px + 1vw);
+        font-weight: bold;
+        color: white;
+        float: left;
+        width: 150px;
+        background-color: rgb(191,55,69);
+        border: 1px solid #fff;
+        position: relative;
+    }
+#main-nav ul li:hover > ul{
+    display: block;
+    margin-left: -40px;
+}
+#main-nav ul ul ul {
+    margin-left: 110px !important;
+    top: 0;
+    position: absolute;
+
+}
+#main-nav a,
+main-nav a:visited {
+    text-decoration: none;
+    color:white;
+}
+
+#main-nav ul li:hover,
+#main-nav ul li:focus,
+#main-nav ul li:active {
+    text-decoration: none;
+    background-color:orange;
+    
+}
+h1 {
+    font-size: calc(18px + 1vw);
+}
+h2{
+   
+}
+p {
+    font-size: calc(8px + 1vw);
+    line-height: calc(1.1em + 0.5vw);
+}
+#thumbs {
+    width: 600px;
+    margin: auto;
+    
+}
+div a {
+    padding: 10px;
+}
+#video {
+    padding-top: 20px;
+}
+article {
+    top: 250px;
+    position: absolute;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+#lunch img {
+    margin-left: -3em;
+    margin-right: +3em;
+    width: 100vw;
+}
+
+article ul li:first-child {
+    color: hsl(147, 50%, 47%);
+}
+article ul li:first-letter {
+    color: orange;
+}
+article:not(#dinner) {
+    font-weight: bold;
+}
+#bgvid {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+footer {
+    position: absolute;
+    bottom: calc(-400px - 1vw);
+    margin-left: 3em;
+    margin-right: 3em;
+}
