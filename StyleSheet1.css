@@ -251,6 +251,9 @@ select {
     margin-top: 5vh;
     margin-bottom: 5vh;
 }
+.form-select-dark {
+    font-family: 'Open Sans', sans-serif;
+}
 
 footer {
     background-color: lightgray;
