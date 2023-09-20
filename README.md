@@ -5,7 +5,7 @@ View Here: www.redriverrage.org
 This is the website for the First Robotics Competition team Red River Rage. 
 
 
-<h2>Languages/Tools Used</h2>
+<h2>Languages/Frameworks Used</h2>
 
 - <b>HTML</b>
 - <b>CSS</b>
@@ -14,10 +14,6 @@ This is the website for the First Robotics Competition team Red River Rage.
 - <b>JQuery</b>
 - <b>PHP</b>
 
-<h2>Environments Used </h2>
-
-- <b>Namecheap web hosting</b>
--  <b>cPanel web hosting control panel</b>
 
 
 
