@@ -10,7 +10,9 @@ This is the website for the First Robotics Competition team Red River Rage.
 - <b>HTML</b>
 - <b>CSS</b>
 - <b>Bootstrap</b>
+- <b>javascript</b>
 - <b>JQuery</b>
+- <b>PHP</b>
 
 <h2>Environments Used </h2>
 
