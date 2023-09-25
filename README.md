@@ -1,5 +1,5 @@
 <h1>Red River Rage Team Website</h1>
-View Here: [redriverrage.org](www.redriverrage.com)
+View Here: redriverrage[here](redriverrage.org)
 
 <h2>Description</h2>
 This is the website for the First Robotics Competition team Red River Rage. 
