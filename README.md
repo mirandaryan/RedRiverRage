@@ -1,5 +1,5 @@
 <h1>Red River Rage Team Website</h1>
-View Here: [http://redriverrage.org](https://mirandaryan.github.io/RedRiverRage/HTMLPage1.html)
+View Here: https://mirandaryan.github.io/RedRiverRage/HTMLPage1.html
 
 <h2>Description</h2>
 This is the website for the First Robotics Competition team Red River Rage. 
